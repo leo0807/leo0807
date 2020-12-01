@@ -15,14 +15,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-🌱 I’m currently learning to be a fullstack developer.
-🤔 I’m looking for help with seeking a web developer job.
-📫 How to reach me: - wechat: CallMeLeo1
+- 🌱 I’m currently learning to be a fullstack developer.
+- 🤔 I’m looking for help with seeking a web developer job.
+- 📫 How to reach me: - wechat: CallMeLeo1
                     - Email: zhangjunxu3@gmail.com / 13324017769@163.com
 
 
 [![Junxu's github stats](https://github-readme-stats.vercel.app/api?username=leo0807&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leo0807)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leo0807&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <img src="https://badges.toozhao.com/badges/01ERFMXXW5APH33MGX15205MGZ/green.svg" />
