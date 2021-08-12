@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 I am Junxu, a passionate self-taught frontEnd web developer.
 - 🌱 I’m currently learning to be a fullstack developer.
-- 🤔 I’m looking for help with seeking a web developer job.
+- 🤔 
 - 📫 How to reach me:
   - wechat: CallMeLeo1
   - Email: zhangjunxu3@gmail.com / 13324017769@163.com
